@@ -1,0 +1,201 @@
+{
+  "basics": {
+    "name": "Johnatan Alexis Urbano Guzmán",
+    "label": "Desarrollador full stack",
+    "picture": "images/johnatan-photo.JPEG",
+    "x_pictureFallback": "images/johnatan-photo.JPEG",
+    "x_title": "!Hola! Me alegro de que estés aquí",
+    "my_phrase": "Nosotros vinimos a este mundo para escribir una historia. Así que encárgate de escribir una historia de aquellas que se vuelven grandes, una historia de aquellas que enamoran e inspiran al mundo",
+    "summary": "Soy Ingeniero de sistemas. Desarrollador Full Stack backend - frontend, emprendedor, CEO de Mobile Lab S.A.S, socio Co Fundador de La Manicurista App, líder del GDG Cali, me gusta la salsa, bailar, cocinar y caminar en la montaña.",
+    "location": {
+      "country": "Colombia",
+      "countryCode": "CO",
+      "region": "Cali"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "alexurguz",
+        "url": "https://www.linkedin.com/in/alexurguz/",
+        "x_icon": "fab fa-2x fa-linkedin"
+      },
+      {
+        "network": "Instagram",
+        "username": "johnurbaguz",
+        "url": "https://www.instagram.com/johnurbaguz/",
+        "x_icon": "fab fa-2x fa-instagram"
+      },
+      {
+        "network": "Facebook",
+        "username": "alexurguz",
+        "url": "https://www.facebook.com/alexurguz",
+        "x_icon": "fab fa-2x fa-facebook"
+      },
+      {
+        "network": "GitHub",
+        "username": "alexurguz",
+        "url": "https://github.com/alexurguz/",
+        "x_icon": "fab fa-2x fa-github"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Mobile Lab S.A.S",
+      "position": "CEO",
+      "website": "https://www.mobilelab.com.co",
+      "startDate": "2014-11-01",
+      "endDate": "",
+      "summary": "Venta de servicios de desarrollo a la medida, consultorías, gerencia de proyectos, desarrollador Full Stack backend y frontend, atención de clientes.",
+      "highlights": []
+    },
+    {
+      "company": "La Manicurista APP",
+      "position": "Desarrollador full stack",
+      "website": "https://www.lamanicurista.com",
+      "startDate": "2017-02-01",
+      "endDate": "2020-07-29",
+      "summary": "Socio Co Fundador, desarrollador Full Stack backend y frontend, líder de la gestión tecnológica y la integración del área contable de la compañía con la aplicación para la realización de procesos de generación de facturas, pagos, recaudo de cartera.",
+      "highlights": []
+    },
+    {
+      "company": "Playtechnologies",
+      "position": "Ingeniero de desarrollo",
+      "website": "https://www.playtechla.com/",
+      "startDate": "2015-08-01",
+      "endDate": "",
+      "summary": "ngeniero encargado en el desarrollo de los productos internos de la compañía Octoplus y Listo.",
+      "highlights": []
+    },
+    {
+      "company": "Enigma developers LTDA",
+      "position": "Ingeniero de desarrollo",
+      "website": "https://www.enigmadev.co",
+      "startDate": "2013-07-01",
+      "endDate": "",
+      "summary": "Desarrollador encargado del componente web del sistema de ventas Siete ASP que es el producto principal de la compañía.",
+      "highlights": []
+    },
+    {
+      "company": "Infodec S.A.",
+      "position": "Consultor en CRM e inteligencia de negocios",
+      "website": "https://www.eem.pt",
+      "startDate": "2011-07-01",
+      "endDate": "",
+      "summary": "Consultor e implementador de plataforma CRM de la empresa llamada RGTECH. Lideré la implementación de componente de inteligencia de negocios para la empresa EPSA. Desarrollo e implementación de Banca Móvil con Banco de la mujer WWB.",
+      "highlights": []
+    },
+    {
+      "company": "Ferplasticos S.A.",
+      "position": "Auxiliar de sistemas",
+      "website": "http://ferplasticos.com/",
+      "startDate": "2009-12-01",
+      "endDate": "",
+      "summary": "Llevar a cabo la implementación del software de registro de tiempos y uso de insumos durante la jornada de producción del área de extrusión de plásticos.",
+      "highlights": []
+    }
+  ],
+  "education": [
+    {
+      "institution": "Institución universitaria Antonio José Camacho",
+      "area": "Ingeniero de sistemas",
+      "studyType": "Pregrado",
+      "startDate": "2011-09-15",
+      "endDate": "2019-06-07",
+      "courses": [
+        "Object Oriented Programming",
+        "Database Management Systems",
+        "Operating systems and computers architectures",
+        "Requirements Engineering"
+      ]
+    },
+    {
+      "institution": "Institución universitaria Antonio José Camacho",
+      "area": "Tecnólogo de sistemas",
+      "studyType": "Pregrado",
+      "startDate": "2011-09-15",
+      "endDate": "2019-06-07",
+      "courses": [
+        "Object Oriented Programming",
+        "Database Management Systems",
+        "Operating systems and computers architectures",
+        "Requirements Engineering"
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "name": "Javascript",
+      "level": "Intermediate",
+      "keywords": ["Software Developer II"]
+    },
+    {
+      "name": "Java",
+      "level": "Intermediate",
+      "keywords": ["Software Developer II"]
+    },
+    {
+      "name": "C#",
+      "level": "Intermediate",
+      "keywords": ["Software Developer II"]
+    },
+    {
+      "name": "ReactJS",
+      "level": "Intermediate",
+      "keywords": ["Software Developer II"]
+    },
+    {
+      "name": "GIT",
+      "level": "Intermediate",
+      "keywords": ["Software Developer II"]
+    },
+    {
+      "name": "PHP",
+      "level": "Intermediate",
+      "keywords": ["Software Developer"]
+    },
+    {
+      "name": "Firebase",
+      "level": "Intermediate",
+      "keywords": ["Software Developer"]
+    },
+    {
+      "name": "Kotlin",
+      "level": "Intermediate",
+      "keywords": ["Software Developer"]
+    },
+    {
+      "name": "Dart",
+      "level": "Intermediate",
+      "keywords": ["Software Developer"]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Fluent speaker"
+    },
+    {
+      "language": "Portuguese",
+      "fluency": "Native speaker"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Emprendimiento",
+      "x_icon": "fa-address-card"
+    },
+    {
+      "name": "Amo los animlaes",
+      "x_icon": "fa-dog"
+    },
+    {
+      "name": "Cocinar",
+      "x_icon": "fa-utensils"
+    },
+    {
+      "name": "Deporte",
+      "x_icon": "fa-dumbbell"
+    }
+  ]
+}
